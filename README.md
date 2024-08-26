@@ -12,19 +12,22 @@ Refer Project_Overview.pdf in Documentation directory. Follow the steps.
 **	Dashboard**
 
 
-![image](https://github.com/user-attachments/assets/e8933f0a-9120-46f6-a785-92014dd2291b)
+![image](https://github.com/user-attachments/assets/329efb7d-be90-424e-87d6-3f81705e974c)
+
 
 
 **	API for Summarisation of Text**
 
 
-![image](https://github.com/user-attachments/assets/7c846962-ac0f-4bd2-85eb-c140edc53fe7)
+![image](https://github.com/user-attachments/assets/307c9644-91bc-4454-80d4-ae58a63a807a)
+
 
 
 ** API for Sentiment Analysis**
 
 
-![image](https://github.com/user-attachments/assets/7e9ae497-9aa7-43f7-ae2f-58ac9acc3d58)
+![image](https://github.com/user-attachments/assets/bda41bcd-b2cc-47be-9ac5-c292aa53dfb3)
+
 
 
 
