@@ -1,0 +1,84 @@
+/* SentimentAnalysis.css */
+.sentiment-analysis {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #00fff5;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  resize: vertical;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  background-color: #00fff5;
+  color: #1a1a2e;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #00cccc;
+}
+
+button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+.error {
+  color: #ff6b6b;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.result {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+}
+
+.result h3 {
+  color: #00fff5;
+  margin-bottom: 1rem;
+}
+
+.sentiment-meter {
+  width: 100%;
+  height: 10px;
+  background-color: #ff6b6b;
+  border-radius: 5px;
+  margin-top: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.sentiment-indicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: calc(var(--sentiment-score) * 100%);
+  background-color: #4ecdc4;
+  transition: width 0.5s ease;
+}
