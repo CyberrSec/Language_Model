@@ -21,7 +21,7 @@ Refer Project_Overview.pdf in Documentation directory. Follow the steps.
 ![image](https://github.com/user-attachments/assets/7c846962-ac0f-4bd2-85eb-c140edc53fe7)
 
 
-**	Analyse Sentiment API **
+**	Analyse Sentiment API**
 
 
 ![image](https://github.com/user-attachments/assets/7e9ae497-9aa7-43f7-ae2f-58ac9acc3d58)
